@@ -1,4 +1,4 @@
-# AVID-Adversarial-Visual-Irregularity-Detection
+# AVID: Adversarial Visual Irregularity Detection
 
 This code repository includes the source code for the [Paper](https://arxiv.org/abs/1805.09521):
 
