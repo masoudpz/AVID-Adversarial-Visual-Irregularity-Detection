@@ -1,11 +1,11 @@
 # AVID: Adversarial Visual Irregularity Detection
 
-This code repository includes the source code for the [Paper](https://arxiv.org/abs/1805.09521):
+This code repository includes the source code for the [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_31):
 
 ```
 AVID-Adversarial-Visual-Irregularity-Detection
 Mohammad Sabokrou, Masoud Pourreza, Mohsen Fayyaz, Rahim Entezari, Mahmood Fathy, Jürgen Gall, Ehsan Adeli
-ACCV 2018 : Asian Conference on Computer Vision
+ACCV'18 published paper on the springer
 ```
 
 The experimentation framework is based on PyTorch;Ir_Mnist Dataset is available in train_mnist as train set and test_mnist_matrix as test set.
@@ -32,7 +32,7 @@ If you use this codebase or any part of it for a publication, please cite:
 @article{sabokrou2018avid,
   title={AVID: Adversarial Visual Irregularity Detection},
   author={Sabokrou, Mohammad and Pourreza, Masoud and Fayyaz, Mohsen and Entezari, Rahim and Fathy, Mahmood and Gall, J{\"u}rgen and Adeli, Ehsan},
-  journal={arXiv preprint arXiv:1805.09521},
+  journal={ ACCV'18 published paper on the springer},
   year={2018}
 }
 
